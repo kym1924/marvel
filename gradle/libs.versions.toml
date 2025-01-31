@@ -18,7 +18,7 @@ androidxHiltWorkManager = "1.2.0"
 androidxJankStats = "1.0.0-beta01"
 androidxSplash = "1.0.1"
 
-gson = "2.11.0"
+gson = "2.12.1"
 hilt = "2.55"
 javax-inject = "1"
 material = "1.12.0"
